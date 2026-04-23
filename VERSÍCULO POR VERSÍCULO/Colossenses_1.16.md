@@ -1,0 +1,1 @@
+"Pois nele todas as coisas foram criadas, coisas no céu e na terra, visíveis e invisíveis, sejam tronos, domínios, governantes ou autoridades. Todas as coisas foram criadas através Dele e para Ele."

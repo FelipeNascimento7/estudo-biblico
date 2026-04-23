@@ -1,0 +1,3 @@
+[[Filipenses_Capitulo_2|< Capítulo 2]] | [[Filipenses_Capitulo_4|Capítulo 4 >]]
+**Resumo**
+Filipenses 3 é um capítulo vibrante e desafiador da carta do apóstolo Paulo à igreja em Filipos. Nele, Paulo encoraja os crentes a mudarem seu foco dos elogios mundanos para o valor extraordinário de conhecer Jesus Cristo. Ele enfatiza a busca por Cristo como o objetivo final, um chamado para lutar pela cidadania celestial e viver em antecipação ao retorno de Cristo.

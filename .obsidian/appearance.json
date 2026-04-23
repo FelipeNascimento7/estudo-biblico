@@ -1,0 +1,13 @@
+{
+  "enabledCssSnippets": [
+    "theme"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "accentColor": "#0099ff",
+  "cssTheme": "",
+  "interfaceFontFamily": "Quicksand",
+  "textFontFamily": "",
+  "theme": "obsidian"
+}

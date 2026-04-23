@@ -1,0 +1,18 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "foldIndent": false,
+  "useTab": true,
+  "smartIndentList": true,
+  "spellcheck": false,
+  "readableLineLength": true,
+  "promptDelete": false,
+  "propertiesInDocument": "hidden",
+  "rightToLeft": false,
+  "attachmentFolderPath": "/",
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "showIndentGuide": true
+}

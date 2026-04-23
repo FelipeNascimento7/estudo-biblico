@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "aaf2d88ee58f6434",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb35f05db46ae0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c2c6777a8d9de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Introdução do Livros/50_Filipenses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "50_Filipenses"
+            }
+          },
+          {
+            "id": "6559664837ee8bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ação de Graças e Oração (3-11).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ação de Graças e Oração (3-11)"
+            }
+          },
+          {
+            "id": "f180aff8bfd01a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "d87c6c0fc74f6805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Método de Estudo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Método de Estudo"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc593aaeb7e8569",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b61684fa69e7418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "880dd466f1675965",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3739e32b920c5f20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "88493d31808d5c8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e9da77fc1eff62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3baed42df06c0e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c3e633663eb8f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEXTO BÍBLICO/JUÍZES/Juízes - Capítulo 1.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Juízes - Capítulo 1"
+            }
+          },
+          {
+            "id": "fb1b1a0fd1135419",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TÓPICOS GERAIS/Contentamento em todas as circunstâncias - Tópicos Gerais.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Contentamento em todas as circunstâncias - Tópicos Gerais"
+            }
+          },
+          {
+            "id": "a01b8eec5de64331",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2f789665298eb968",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TÓPICOS GERAIS/Contentamento em todas as circunstâncias - Tópicos Gerais.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Contentamento em todas as circunstâncias - Tópicos Gerais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "f180aff8bfd01a30",
+  "lastOpenFiles": [
+    "Ação de Graças e Oração (3-11).md",
+    "Sem título.md",
+    "Bíblia em Frases.md",
+    "Saudações de Paulo e Timóteo (1-2).md",
+    "1 Introdução do Livros/50_Filipenses.md",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/Filipenses_Capitulo_1.md",
+    "Método de Estudo.md",
+    "Bíblia em Frases",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/Filipenses_Capitulo_2.md",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/Filipenses_Capitulo_3.md",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/Filipenses_Capitulo_4.md",
+    "0 BÍblia/Biblia_de_Estudo.md",
+    "Peça.md",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/v1.md",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/CAPITULO_1_Viver_e_Cristo.md",
+    "1 Introdução do Livros/51_Colossenses.md",
+    "ENCONTRO.md",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/CAPITULO_4_Alegra-te_no_Senhor.md",
+    "3 Capítulo/50 Filipenses/Filipenses_Texto.md",
+    "1 Introdução do Livros/46_1_Corintios.md",
+    "1 Introdução do Livros/10_2_Samuel.md",
+    "3 Capítulo a Capítulo Texto Limpo/50 Filipenses/Ação de graças e oração.md",
+    "1 Introdução do Livros/49_Efesios.md",
+    "1 Livros/49 Efésios.md",
+    "1 Livros/46_1_Corintios_-_Resumo_por_Eventos.md",
+    "EPÍGRAFES/7 - Juízes/Juizes_2_-_Epigrafes.md",
+    "EPÍGRAFES/7 - Juízes/Juizes_1_-_Epigrafes.md",
+    "html/46_1_Corintios.html",
+    "html/Biblia_de_Estudo.html",
+    "html/index.html",
+    "html/46_1_Coríntios.html.html",
+    "html/Bíblia_de_Estudo.html.html",
+    "html/index (1).html",
+    "html/46 1 Coríntios (1).html",
+    "html/Bíblia de Estudo (1).html",
+    "html/styles.css",
+    "Juízes 2 - Juízes levantados - Tópicos do Capítulo.canvas",
+    "Capítulo 1 - O fracasso em completar a conquista.canvas",
+    "Juízes 1 - O fracasso em completar a conquista - Tópicos do Capítulo.canvas",
+    "0 CANVAS/JUÍZES.canvas",
+    "0 CANVAS/TODOS OS LÍVROS.canvas",
+    "Todos os Livros.canvas",
+    "0 CANVAS/A BÍBLIA SAGRADA.canvas"
+  ]
+}

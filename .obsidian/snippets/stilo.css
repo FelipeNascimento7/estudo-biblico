@@ -1,0 +1,117 @@
+/* Texto em negrito: branco (modo visualização e edição) */
+
+body {
+  color: #ffffff;
+  --link-decoration: none;
+  --link-decoration-hover: none;
+  --tag-color: #707070;
+  --tag-color-hover: #707070;
+  --tag-background: transparet;
+  --font-monospace-theme: 'Roboto Mono', monospace;
+  --font-text-theme: 'Quicksand', sans-serif, momospace;
+  --text-on-accent: normal;
+  font-size: 16px;
+  font-weight: normal;
+  --list-spacing: 2px;
+  --background-primary: #000000;
+  --titlebar-background: rgb(0, 0, 0);
+  --titlebar-background-focused: rgb(0, 0, 0);
+  --titlebar-border-width: rgb(0, 0, 0);
+  --titlebar-border-color: rgb(0, 0, 0);
+  --background-secondary: #000000;
+}
+
+p {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+h0 {
+      color: #ffffff; 
+}
+
+.cm-strong {
+  color: #ffffff;
+}
+
+.cm-content {
+  color: #888888;
+}
+
+.cm-content-strong {
+  color: #ffffff;
+}
+
+
+.markdown-preview-view strong{
+  color: #ffffff;
+}
+
+.markdown-preview-view {
+  color: #ffffff;
+}
+
+.markdown-preview-view p{
+  color: #888888;
+}
+
+hr {
+  border: none;
+  height: 10px;         /* Altere a espessura aqui */
+  background-color: var(--text-normal); /* ou use 'black' */
+
+}
+
+/* Remover negrito de listas não ordenadas */
+ul {
+    color: #888888;
+}
+
+/* Remover negrito de listas ordenadas */
+ol {
+    color: #888888;
+}
+
+/* Remover negrito dos itens da lista */
+li {
+    color: #888888;
+
+}
+
+/* Centraliza TODOS os headers em TODOS os cartões do Canvas */
+.canvas-node-content .markdown-rendered h1,
+.canvas-node-content .markdown-rendered h2,
+.canvas-node-content .markdown-rendered h3,
+.canvas-node-content .markdown-rendered h4,
+.canvas-node-content .markdown-rendered h5,
+.canvas-node-content .markdown-rendered h6 {
+    text-align: center;
+}
+
+/* Opcional: Centraliza também o texto normal dentro dos cartões */
+.canvas-node-content .markdown-rendered {
+    text-align: center;
+}
+/* Reduz o padding e margens do blockquote */
+.markdown-preview-view blockquote {
+  padding-left: 10px;   /* Espaço entre a borda e o texto */
+  margin: 0px 0px 20px 0px;        /* Margem externa (vertical e horizontal) */
+  border-left: 2px solid var(--blockquote-border-color); /* Espessura da borda */
+}
+
+/* Modo de edição (editor de fonte) */
+.markdown-source-view .HyperMD-quote blockquote {
+  padding-left: 1px;   /* Espaço entre a borda e o texto */
+  margin: 0px 1px 0px 0px;        /* Margem externa (vertical e horizontal) */
+  border-left: 1px solid var(--blockquote-border-color);
+}
+
+.markdown-rendered hr,
+.markdown-preview-view hr,
+.is-live-preview .cm-content hr {
+  border: none;
+  height: 1px; /* <-- aqui é a grossura da régua */
+  background-color: var(--text-normal); /* usa a cor do texto, mas pode trocar */
+  margin: 0em 0; /* espaçamento acima e abaixo */
+  opacity: 1;
+}
