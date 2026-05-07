@@ -1,9 +1,9 @@
-#### [[Biblia_de_Estudo|< VOLTAR]] [[Texto]
+#### [[Biblia_de_Estudo|< Todos os Livros]]
 
-Capítulo: [[Filipenses_Capitulo_1|1]] [[Filipenses_Capitulo_2|2]]
+Capítulo: [[Filipenses_1|1]] [[Filipenses_2|2]] [[Filipenses_3|3]] [[Filipenses_4|4]] 
 ## FILIPENSES
-**Tema:** Alegria em Cristo
 
+**Tema:** Alegria em Cristo
 *"Posso fazer todas as coisas através de Cristo que me dá força."*
 *(Filipenses 4:13)*
 
@@ -12,13 +12,6 @@ Filipenses é uma carta do apóstolo Paulo à igreja em Filipos, enfatizando a a
 
 **[[50 Filipenses - Visão Geral Willmington|Visão Geral Willmington]]**
 Este livro foi escrito pelo preso Paulo em Roma para agradecer à igreja de Filipos por sua generosidade e para apresentar Jesus Cristo como o propósito da vida (1:6), o padrão da vida (2:5-6), o prêmio da vida (3:14) e o poder da vida (4:13).
-
-#### **Capítulos Filipenses**
-[[CAPITULO_1_Viver_e_Cristo|CAPÍTULO 1: Viver é Cristo]]
-[[CAPITULO_2_A_Mente_de_Cristo|CAPÍTULO 2: A Mente de Cristo]]
-[[CAPITULO_3_Avancando_em_direcao_ao_Gol|CAPÍTULO 3: Avançando em direção ao Gol]]
-[[CAPITULO_4_Alegra-te_no_Senhor|CAPÍTULO 4: Alegra-te no Senhor]]
-
 
 **[[50 Filipenses - Resumo por Eventos|Resumo por Eventos]]**
 1. **Introdução ( 1:1–11 )**

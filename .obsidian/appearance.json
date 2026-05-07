@@ -3,7 +3,7 @@
     "theme"
   ],
   "showViewHeader": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "nativeMenus": false,
   "accentColor": "#0099ff",
   "cssTheme": "",

@@ -1,4 +1,4 @@
-[[Filipenses_Capitulo_3|< Capítulo 3]] | [[]]
+[[Filipenses_3|< Capítulo 3]] | [[]]
 
 **Resumo**
 Filipenses 4 serve como capítulo final da carta do apóstolo Paulo aos Filipenses. Escritas durante a sua prisão em Roma, as observações finais de Paulo sublinham a importância da unidade, da paz, do contentamento, da oração e da provisão eterna de Deus. Essas lições continuam relevantes para os crentes modernos, guiando-nos na manutenção de nossa fé cristã em meio às diversas circunstâncias da vida.

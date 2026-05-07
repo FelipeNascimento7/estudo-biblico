@@ -10,4 +10,8 @@
 
 **8** Deus é minha testemunha de como anseio por todos vocês com o carinho de Cristo Jesus.
 
-**9** E esta é a minha oração: para que o teu amor abunde cada vez mais em conhecimento e profundidade de percepção, 10para que você possa testar e provar o que é melhor e possa ser puro e irrepreensível para o dia de Cristo, 11cheio do fruto da justiça que vem através de Jesus Cristo, para glória e louvor de Deus.
+**9** E esta é a minha oração: para que o teu amor abunde cada vez mais em conhecimento e profundidade de percepção,
+
+**10** para que você possa testar e provar o que é melhor e possa ser puro e irrepreensível para o dia de Cristo,
+
+**11** cheio do fruto da justiça que vem através de Jesus Cristo, para glória e louvor de Deus.

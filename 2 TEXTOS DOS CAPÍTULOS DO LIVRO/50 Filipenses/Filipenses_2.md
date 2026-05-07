@@ -1,4 +1,4 @@
-[[Filipenses_Capitulo_1|< Capítulo 1]] | [[Filipenses_Capitulo_3| Capítulo 3 >]]
+[[Filipenses_1|< Capítulo 1]] | [[Filipenses_3| Capítulo 3 >]]
 ___
 
 **A Mente de Cristo**

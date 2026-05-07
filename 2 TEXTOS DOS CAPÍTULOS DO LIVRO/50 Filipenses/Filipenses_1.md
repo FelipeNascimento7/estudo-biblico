@@ -1,4 +1,4 @@
-[[50_Filipenses| < Introdução Filipenses]] | [[Filipenses_Capitulo_2| Capítulo 2 >]]
+[[50_Filipenses| < Introdução Filipenses]] | [[Filipenses_2| Capítulo 2 >]]
 ___
 
 **Viver é Cristo**
@@ -17,7 +17,7 @@ ___
 
 **4** Em todas as minhas súplicas em vosso benefício, sempre oro com alegria, ^a32bc3
 
-**5** em razão da vossa cooperação na causa do Evangelho, desde o primeiro dia até agora.
+**5** em razão da vossa cooperação na causa do Evangelho, desde o primeiro dia até agora. ^7aa6a5
 
 **6** E estou plenamente convicto de que aquele que iniciou boa obra em vós, há de concluí-la até o Dia de Cristo Jesus. ^adbfc3
 
@@ -26,14 +26,14 @@ ___
 **8** Deus é minha testemunha, da saudade que sinto de todos vós, com a terna misericórdia de Cristo Jesus. 
 
 **Oração por Amor e Discernimento**
-**9** E suplico isto em oração: que o vosso amor fraternal cresça cada vez mais no pleno conhecimento e em todo entendimento,
+**9** E suplico isto em oração: que o vosso amor fraternal cresça cada vez mais no pleno conhecimento e em todo entendimento, ^eaf92b
 
 **10** a fim de que possais discernir o que é melhor, para que vos torneis puros e irrepreensíveis até o dia de Cristo,
 
 **11** plenos do fruto de justiça, fruto este que vem por meio de Jesus Cristo, para glória e louvor de Deus.
 
 **Correntes avançam o Evangelho**
-**12** Desejo, portanto, irmãos, que saibais que tudo o que me aconteceu tem, ao contrário, servido para o progresso do Evangelho,
+**12** Desejo, portanto, irmãos, que saibais que tudo o que me aconteceu tem, ao contrário, servido para o progresso do Evangelho, ^294d05
 
 **13** de tal maneira a ficar evidente para toda a guarda do palácio e para todos os demais que é por causa de Cristo que estou na prisão.
 
@@ -52,7 +52,7 @@ ___
 
 **20** Aguardo com ansiedade e grande esperança, que em nada serei decepcionado; pelo contrário, com toda a intrepidez, tanto agora como em todos os dias, Cristo será engrandecido no meu corpo, seja durante a vida, ou mesmo na hora da morte.
 
-**21** Porque para mim, o viver é Cristo e o morrer é lucro!
+**21** Porque para mim, o viver é Cristo e o morrer é lucro! ^d02e18
 
 **22** Caso continue vivendo no corpo, certamente apreciarei o fruto do meu labor. Mas já não sei o que escolher.
 
@@ -65,7 +65,7 @@ ___
 **26** a fim de que, pela minha presença, uma vez mais a vosso louvor e glória em Cristo Jesus transborde por minha causa.
 
 **Conduta Digna do Evangelho**
-**27** Portai-vos como cidadãos dignos do Evangelho de Cristo, para que dessa forma, quer eu vá e vos veja, quer tão-somente ouça a vosso respeito em minha ausência, tenha eu conhecimento de que permaneceis firmes num só espírito, combatendo unânimes em prol da fé evangélica,
+**27** Portai-vos como cidadãos dignos do Evangelho de Cristo, para que dessa forma, quer eu vá e vos veja, quer tão-somente ouça a vosso respeito em minha ausência, tenha eu conhecimento de que permaneceis firmes num só espírito, combatendo unânimes em prol da fé evangélica, ^5e3e50
 
 **28** sem de maneira alguma vos deixardes constranger por aqueles que se opõem à vossa fé. Para eles, isso é sinal de perdição, entretanto, para vós, de salvação, e isso vem da parte de Deus.
 
@@ -73,19 +73,19 @@ ___
 
 **30** considerando que estais passando pela mesma luta que me viram combater e agora ouvis que ainda enfrento.
 
-[[50_Filipenses| < Introdução Filipenses]] | [[Filipenses_Capitulo_2| Capítulo 2 >]]
+[[50_Filipenses| < Introdução Filipenses]] | [[Filipenses_2| Capítulo 2 >]]
 
 ___
 
 # Recursos
 ___
 ##### Pontos de Oração
-- Ore por uma compreensão e apreciação mais profundas da parceria no evangelho dentro de sua comunidade. (v.5)
-- Peça a Deus que aumente sua confiança em Sua fidelidade para completar Sua obra em você. (v.6)
-- Ore por um amor e discernimento abundantes em sua vida e na vida de outros crentes. (v.9)
-- Busque a força de Deus para ver e usar os desafios como oportunidades para o avanço do evangelho. (v.12)
-- Ore por um coração e uma vida que realmente reflitam a afirmação de que viver é Cristo. (v.21)
-- Peça unidade e espírito de cooperação dentro de sua igreja e comunidade cristã. (v.27)
+- Ore por uma compreensão e apreciação mais profundas da parceria no evangelho dentro de sua comunidade. ([[#^7aa6a5|v.5]])
+- Peça a Deus que aumente sua confiança em Sua fidelidade para completar Sua obra em você. ([[#^adbfc3|v.6]])
+- Ore por um amor e discernimento abundantes em sua vida e na vida de outros crentes. ([[#^eaf92b|v.9]])
+- Busque a força de Deus para ver e usar os desafios como oportunidades para o avanço do evangelho. ([[#^294d05|v.12]])
+- Ore por um coração e uma vida que realmente reflitam a afirmação de que viver é Cristo. ([[#^d02e18|v.21]])
+- Peça unidade e espírito de cooperação dentro de sua igreja e comunidade cristã. ([[#^5e3e50|v.27]])
 
 ___
 
