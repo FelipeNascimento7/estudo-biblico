@@ -30,9 +30,9 @@
               "state": {
                 "file": "CANVAS/Sem título.canvas",
                 "viewState": {
-                  "x": 959.4719907500539,
-                  "y": 210.0049775699157,
-                  "zoom": -0.16203890618126704
+                  "x": 570,
+                  "y": 85,
+                  "zoom": -0.9227646749569225
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -175,10 +175,10 @@
   },
   "active": "bffe08d9da83d5d9",
   "lastOpenFiles": [
+    "CANVAS/RECURSOS CANVA.md",
+    "CANVAS/Sem título.canvas",
     "1 INTRODUÇÃO DO LIVRO/58_Hebreus.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_2.md",
-    "CANVAS/Sem título.canvas",
-    "CANVAS/RECURSOS CANVA.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_1.md",
     "1 INTRODUÇÃO DO LIVRO/50_Filipenses.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_4.md",
@@ -202,7 +202,6 @@
     "1 INTRODUÇÃO DO LIVRO/13_1_Cronicas.md",
     "1 INTRODUÇÃO DO LIVRO/12_2_Reis.md",
     "1 INTRODUÇÃO DO LIVRO/11_1_Reis.md",
-    "1 INTRODUÇÃO DO LIVRO/10_2_Samuel.md",
     "MAPA BÍBLICO",
     "BÍBLIA EM FRASES",
     "SCRIPTS DE FORMATAÇÃO COM IA",
