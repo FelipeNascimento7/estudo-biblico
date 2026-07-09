@@ -1245,7 +1245,7 @@ var p=Object.defineProperty;var w=Object.getOwnPropertyDescriptor;var h=Object.g
   .markdown-body {
     padding: 15px;
   }
-}`,F=require("fs"),P=require("path"),E="C:/Users/Felipe/Documents/COFRES/felipe/EstudoBiblicoSite/MeuEstudoBiblico",T=800,c=class extends y.Plugin{constructor(){super(...arguments),this.autoExportTimer=null}getExportFolderPath(){return E}async ensureExportFolderExists(r){await F.promises.mkdir(r,{recursive:!0})}buildHtmlDocument(r,t){var a;return`<!doctype html>
+}`,F=require("fs"),P=require("path"),E="/home/anonimux/Documentos/Projetos_Pessoais/SiteEstudoBiblico/",T=800,c=class extends y.Plugin{constructor(){super(...arguments),this.autoExportTimer=null}getExportFolderPath(){return E}async ensureExportFolderExists(r){await F.promises.mkdir(r,{recursive:!0})}buildHtmlDocument(r,t){var a;return`<!doctype html>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

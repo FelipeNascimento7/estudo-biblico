@@ -1,5 +1,5 @@
 [[6000_Pecado_e_Salvacao|6000 Pecado e Salvação]]
-	[[6010_Pecado|6010 Pecado]]
+	6010 Pecado
 		[[6020_Pecado|6020 Pecado]]
 			[[6021_Pecado_natureza_de|6021 Pecado, natureza de]]
 			[[6022_Pecado_causas_de|6022 Pecado, causas de]]

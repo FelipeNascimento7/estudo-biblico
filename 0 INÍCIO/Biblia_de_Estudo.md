@@ -1,12 +1,12 @@
-### Pentateuco (Lei)
+#### Pentateuco (Lei)
 ___
- [[1_Gênesis|Gênesis]]
+ [[1_Genesis|Gênesis]]
  [[2_Êxodo|Êxodo]]
  [[3_Levítico|Levítico]]
  [[4_Números|Números]]
  [[5_Deuteronômio|Deuteronômio]]
 
-### Livros Históricos
+#### Livros Históricos
 ___
 [[6_Josué|Josué]]
 [[7_Juízes|Juízes]]
@@ -21,7 +21,7 @@ ___
 [[16_Neemias|Neemias]]
 [[17_Ester|Ester]]
 
-### Livros Poéticos e Sapienciais
+#### Livros Poéticos e Sapienciais
 ___
  [[18_Jó|Jó]]
  [[19_Salmos|Salmos]]
@@ -29,7 +29,7 @@ ___
  [[21_Eclesiastes|Eclesiastes]]
  [[22_Cânticos|Cânticos]]
 
-### Profetas Maiores
+#### Profetas Maiores
 ___
  [[23_Isaías|Isaías]]
  [[24_Jeremias|Jeremias]]
@@ -37,7 +37,7 @@ ___
  [[26_Ezequiel|Ezequiel]]
  [[27_Daniel|Daniel]]
 
-### Profetas Menores
+#### Profetas Menores
 ___
  [[28_Oséias|Oséias]]
  [[29_Joel|Joel]]
@@ -52,18 +52,18 @@ ___
  [[38_Zacarias|Zacarias]]
  [[39_Malaquias|Malaquias]]
 
-### Evangelhos
+#### Evangelhos
 ___
  [[40_Mateus|Mateus]]
  [[41_Marcos|Marcos]]
  [[42_Lucas|Lucas]]
  [[43_João|João]]
 
-### História da Igreja
+#### História da Igreja
 ___
  [[44_Atos|Atos]]
 
-### Cartas de Paulo
+#### Cartas de Paulo
 ___
  [[45_Romanos|Romanos]]
  [[46_1_Corintios|1 Coríntios]]
@@ -79,7 +79,7 @@ ___
  [[56_Tito|Tito]]
  [[57_Filemom|Filemom]]
 
-### Cartas Gerais
+#### Cartas Gerais
 ___
  [[58_Hebreus|Hebreus]]
  [[59_Tiago|Tiago]]
@@ -90,6 +90,6 @@ ___
  [[64_3_João|3_João]]
  [[65_Judas|Judas]]
 
-### Profético
+#### Profético
 ___
  [[66_Apocalipse|Apocalipse]]

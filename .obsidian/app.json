@@ -2,12 +2,12 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "foldIndent": false,
+  "foldIndent": true,
   "useTab": true,
   "smartIndentList": true,
   "spellcheck": false,
   "readableLineLength": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "propertiesInDocument": "hidden",
   "rightToLeft": false,
   "attachmentFolderPath": "/",
@@ -21,5 +21,6 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "tabSize": 2
 }

@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a617072b7dfdfed",
+            "id": "4a108f85e9999611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 INTRODUÇÃO DO LIVRO/50_Filipenses.md",
-                "mode": "source",
+                "file": "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_2.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "50_Filipenses"
+              "title": "Filipenses_2"
             }
           }
         ]
@@ -118,29 +118,9 @@
               "icon": "lucide-list",
               "title": "Sumário de Contentamento em todas as circunstâncias - Tópicos Gerais"
             }
-          },
-          {
-            "id": "bb503f184f269a38",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "2b1d73f696c3b30a",
-            "type": "leaf",
-            "state": {
-              "type": "agent-chat-view",
-              "state": {},
-              "icon": "brain-cog",
-              "title": "Chat with agent"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,39 +135,39 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "copilot:Open Copilot Chat": false,
-      "ai-agent:Chat with Agent": false
+      "bases:Criar nova base": false
     }
   },
-  "active": "6a617072b7dfdfed",
+  "active": "4a108f85e9999611",
   "lastOpenFiles": [
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_1.md",
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Ação de graças e oração.md",
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_4.md",
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/CAPITULO_4_Alegra-te_no_Senhor.md",
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/CAPITULO_3_Avancando_em_direcao_ao_Gol.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_3.md",
+    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_4.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_2.md",
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/CAPITULO_1_Viver_e_Cristo.md",
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/CAPITULO_2_A_Mente_de_Cristo.md",
+    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_1.md",
     "1 INTRODUÇÃO DO LIVRO/50_Filipenses.md",
-    "1 INTRODUÇÃO DO LIVRO/46_1_Corintios.md",
-    "1 INTRODUÇÃO DO LIVRO/42_Lucas.md",
-    "1 INTRODUÇÃO DO LIVRO/40_Mateus.md",
+    "1 INTRODUÇÃO DO LIVRO/58_Hebreus.md",
+    "1 INTRODUÇÃO DO LIVRO/51_Colossenses.md",
     "0 INÍCIO/Biblia_de_Estudo.md",
+    "PARA ORGANIZAR/Ação de Graças e Oração (3-11).md",
+    "PARA ORGANIZAR/DINAMICA.md",
+    "PARA ORGANIZAR/Bíblia em Frases.md",
+    "PARA ORGANIZAR/DINÃMICA.md",
+    "PARA ORGANIZAR/DINAMICA_RASCUNHO.md",
+    "PARA ORGANIZAR/ENCONTRO.md",
+    "PARA ORGANIZAR/Método de Estudo.md",
+    "PARA ORGANIZAR/index.md",
+    "PARA ORGANIZAR/ORGANIZACAO_DOS_LINKS.md",
+    "PARA ORGANIZAR/ORGANIZACAO_DE_NIVEIS.md",
+    "PARA ORGANIZAR/Peça.md",
+    "PARA ORGANIZAR/Saudações de Paulo e Timóteo (1-2).md",
+    "PARA ORGANIZAR/Sem título.md",
     "Padroes_Concluidos.md",
+    "Técnicas_de_Interpretaçõa_Bíblica.md",
     "PREGRAÇÃO TANQUES.md",
-    "Sem título.md",
-    "DICIONÁRIO/0_Dicionario.md",
-    "DICIONÁRIO/1000_Deus.md",
-    "DICIONÁRIO/1020_Deus_onisciente.md",
-    "DICIONÁRIO/1025_Deus_ira_de.md",
-    "DICIONÁRIO/1015_Deus.md",
-    "DICIONÁRIO/1010_Deus_natureza_e_qualidades_de.md",
-    "SCRIPTS DE FORMATAÇÃO COM IA/Formatar_Conteudo_do_Texto_do_Dicionairo.md",
-    "SCRIPTS DE FORMATAÇÃO COM IA/Formatacao_Dicionario.md",
-    "DICIONÁRIO/6021_Pecado_natureza_de.md",
+    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/O_Poder_da_Oração.md",
+    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Avançando o Evangelho em Meio à Adversidade.md",
+    "MAPA BÍBLICO",
+    "BÍBLIA EM FRASES",
     "SCRIPTS DE FORMATAÇÃO COM IA",
     "PARA ORGANIZAR/Sem título",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/7 Juízes",
@@ -196,8 +176,6 @@
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO",
     "2 CAPÍTULOS DO LIVRO/7 Juízes",
     "2 CAPÍTULOS DO LIVRO/50 Filipenses",
-    "2 CAPÍTULOS DO LIVRO/42 Lucas",
-    "2 CAPÍTULOS DO LIVRO",
     "Juízes 2 - Juízes levantados - Tópicos do Capítulo.canvas",
     "Capítulo 1 - O fracasso em completar a conquista.canvas",
     "Juízes 1 - O fracasso em completar a conquista - Tópicos do Capítulo.canvas",

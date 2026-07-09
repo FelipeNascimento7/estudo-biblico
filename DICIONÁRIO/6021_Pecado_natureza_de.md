@@ -7,9 +7,9 @@ ___
 As Escrituras retratam o pecado como algo errado perante Deus de diversas maneiras, como impureza, culpa ou rebeldia.
 
 ___
-**A NATUREZA FUNDAMENTAL DO PECADO**
+#### **A NATUREZA FUNDAMENTAL DO PECADO**
 
-**Todo pecado é dirigido contra Deus.**
+**Todo pecado é dirigido contra Deus**
 
 > *[[Salmos_51_4|Salmos 51:4]]*
 > *4 Pequei contra ti, contra ti somente, e pratiquei o mal que tanto reprovas. Portanto, justa é a tua sentença, e incontestável, ao julgar-me condenado.*

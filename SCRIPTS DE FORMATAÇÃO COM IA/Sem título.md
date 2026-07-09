@@ -1,3 +1,9 @@
+PADRÃO LIVRO
+
+https://biblehub.com/philippians/
+https://biblehub.com/sum/philippians/
+
+
 #### [[Biblia_de_Estudo|< Todos os Livros]]
 
 ## FILIPENSES
