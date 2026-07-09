@@ -90,7 +90,7 @@ li {
 
 /* Opcional: Centraliza também o texto normal dentro dos cartões */
 .canvas-node-content .markdown-rendered {
-    text-align: center;
+    /*text-align: center;*/
 }
 /* Reduz o padding e margens do blockquote */
 .markdown-preview-view blockquote {

@@ -186,7 +186,7 @@
 
 body {
   --font-monospace-theme: 'Roboto Mono', monospace;
-  --font-text-theme: 'Quicksand', sans-serif, momospace;
+  --font-text-theme: 'URW Geometric', sans-serif, momospace;
 }
 
 body.theme-dark {

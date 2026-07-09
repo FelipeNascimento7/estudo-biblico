@@ -10,7 +10,6 @@
 
 **Alegrem-se no Senhor e Cuidado**  
 **01** Quanto ao mais, meus irmãos, alegrem-se no Senhor. Escrever de novo as mesmas coisas não é um problema para mim e é segurança para vocês.
-
 **02** Cuidado com os cães! Cuidado com os maus obreiros! Cuidado com a falsa circuncisão!  
 **03** Porque nós é que somos a circuncisão, nós, que adoramos a Deus no Espírito e nos gloriamos em Cristo Jesus, em vez de confiarmos na carne.
 

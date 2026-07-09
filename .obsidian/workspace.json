@@ -14,15 +14,50 @@
               "type": "markdown",
               "state": {
                 "file": "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Filipenses_2"
             }
+          },
+          {
+            "id": "bffe08d9da83d5d9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CANVAS/Sem título.canvas",
+                "viewState": {
+                  "x": 959.4719907500539,
+                  "y": 210.0049775699157,
+                  "zoom": -0.16203890618126704
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "5d0558f4da7d80fd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CANVAS/Sem título.canvas",
+                "viewState": {
+                  "x": 570,
+                  "y": 85,
+                  "zoom": -0.9227646749569225
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,34 +173,36 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4a108f85e9999611",
+  "active": "bffe08d9da83d5d9",
   "lastOpenFiles": [
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_3.md",
-    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_4.md",
+    "1 INTRODUÇÃO DO LIVRO/58_Hebreus.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_2.md",
+    "CANVAS/Sem título.canvas",
+    "CANVAS/RECURSOS CANVA.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_1.md",
     "1 INTRODUÇÃO DO LIVRO/50_Filipenses.md",
-    "1 INTRODUÇÃO DO LIVRO/58_Hebreus.md",
-    "1 INTRODUÇÃO DO LIVRO/51_Colossenses.md",
-    "0 INÍCIO/Biblia_de_Estudo.md",
-    "PARA ORGANIZAR/Ação de Graças e Oração (3-11).md",
-    "PARA ORGANIZAR/DINAMICA.md",
-    "PARA ORGANIZAR/Bíblia em Frases.md",
-    "PARA ORGANIZAR/DINÃMICA.md",
-    "PARA ORGANIZAR/DINAMICA_RASCUNHO.md",
-    "PARA ORGANIZAR/ENCONTRO.md",
-    "PARA ORGANIZAR/Método de Estudo.md",
-    "PARA ORGANIZAR/index.md",
-    "PARA ORGANIZAR/ORGANIZACAO_DOS_LINKS.md",
-    "PARA ORGANIZAR/ORGANIZACAO_DE_NIVEIS.md",
-    "PARA ORGANIZAR/Peça.md",
-    "PARA ORGANIZAR/Saudações de Paulo e Timóteo (1-2).md",
-    "PARA ORGANIZAR/Sem título.md",
-    "Padroes_Concluidos.md",
-    "Técnicas_de_Interpretaçõa_Bíblica.md",
-    "PREGRAÇÃO TANQUES.md",
+    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_4.md",
+    "CANVAS",
+    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Filipenses_3.md",
+    "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Colossenses_1.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/O_Poder_da_Oração.md",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/50 Filipenses/Avançando o Evangelho em Meio à Adversidade.md",
+    "3 TÓPICOS/Alegria_na_Parceria.md",
+    "1 INTRODUÇÃO DO LIVRO/24_Jeremias.md",
+    "1 INTRODUÇÃO DO LIVRO/23_Isaias.md",
+    "1 INTRODUÇÃO DO LIVRO/22_Cantico_dos_Canticos.md",
+    "1 INTRODUÇÃO DO LIVRO/21_Eclesiastes.md",
+    "1 INTRODUÇÃO DO LIVRO/20_Proverbios.md",
+    "1 INTRODUÇÃO DO LIVRO/19_Salmos.md",
+    "1 INTRODUÇÃO DO LIVRO/18_Jo.md",
+    "1 INTRODUÇÃO DO LIVRO/17_Ester.md",
+    "1 INTRODUÇÃO DO LIVRO/16_Neemias.md",
+    "1 INTRODUÇÃO DO LIVRO/15_Esdras.md",
+    "1 INTRODUÇÃO DO LIVRO/14_2_Cronicas.md",
+    "1 INTRODUÇÃO DO LIVRO/13_1_Cronicas.md",
+    "1 INTRODUÇÃO DO LIVRO/12_2_Reis.md",
+    "1 INTRODUÇÃO DO LIVRO/11_1_Reis.md",
+    "1 INTRODUÇÃO DO LIVRO/10_2_Samuel.md",
     "MAPA BÍBLICO",
     "BÍBLIA EM FRASES",
     "SCRIPTS DE FORMATAÇÃO COM IA",
@@ -175,7 +212,6 @@
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO/42 Lucas",
     "2 TEXTOS DOS CAPÍTULOS DO LIVRO",
     "2 CAPÍTULOS DO LIVRO/7 Juízes",
-    "2 CAPÍTULOS DO LIVRO/50 Filipenses",
     "Juízes 2 - Juízes levantados - Tópicos do Capítulo.canvas",
     "Capítulo 1 - O fracasso em completar a conquista.canvas",
     "Juízes 1 - O fracasso em completar a conquista - Tópicos do Capítulo.canvas",
