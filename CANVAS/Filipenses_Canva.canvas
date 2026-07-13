@@ -1,17 +1,17 @@
 {
 	"nodes":[
 		{"id":"3aa30964cbeadc9b","type":"group","x":640,"y":-180,"width":740,"height":298,"label":"VIVER É CRISTO - FILIPENSES 1"},
-		{"id":"cb8c8bf2e87eefde","x":640,"y":200,"width":740,"height":140,"type":"group","label":"A MENTE DE CRISTO - FILIPENSES 2"},
+		{"id":"cb8c8bf2e87eefde","type":"group","x":640,"y":200,"width":740,"height":140,"label":"A MENTE DE CRISTO - FILIPENSES 2"},
 		{"id":"6bc9dbf64f1584a0","type":"text","text":"01 - 02 : SAUDAÇÃO DE PAULO","x":660,"y":-160,"width":700,"height":50},
 		{"id":"360de118db4a639f","type":"text","text":"03 - 11 : ORAÇÃO DE PAULO","x":660,"y":-110,"width":700,"height":50},
 		{"id":"9adda18a1583b413","type":"text","text":"12 - 18 : PAULO FALA SOBRE SUA PRISÃO","x":660,"y":-60,"width":700,"height":50},
 		{"id":"0345fb37ed9054ee","type":"text","text":"**CAPÍTULO 1**: VIVER É CRISTO","x":160,"y":-85,"width":340,"height":50},
 		{"id":"cd67524133571e28","type":"text","text":"**FILIPENSES**","x":-240,"y":-85,"width":280,"height":50},
-		{"id":"94254920dc579a66","type":"text","text":"27 - 30 : A CONDUTA DIGNA DO EVANGELHO","x":660,"y":40,"width":700,"height":50},
-		{"id":"70797736b91ce185","type":"text","text":"19 - 26 : PERSPECTIVA ENTRE MORRER OU CONTUNUAR VIVO","x":660,"y":-10,"width":700,"height":50},
 		{"id":"5768f2614578a493","type":"text","text":"**CAPÍTULO 2**: A MENTE DE CRISTO","x":160,"y":300,"width":340,"height":50},
 		{"id":"3dcae1bd72af1e06","type":"text","text":"01 - 02 : A IGREJA COM UMA SÓ MENTE","x":660,"y":220,"width":700,"height":50},
-		{"id":"f851f32675e127f3","x":660,"y":270,"width":700,"height":50,"type":"text","text":"03 - 04 : AO TRABALHAR NÃO CONSIDERE APENAS O QUE VOCÊ ACREDITA QUE DEVE F"}
+		{"id":"f851f32675e127f3","type":"text","text":"03 : NÃO ","x":660,"y":270,"width":700,"height":50},
+		{"id":"94254920dc579a66","type":"text","text":"27 - 30 : A CONDUTA DIGNA DO EVANGELHO","x":660,"y":40,"width":700,"height":50},
+		{"id":"70797736b91ce185","type":"text","text":"19 - 26 : PERSPECTIVA ENTRE MORRER OU CONTUNUAR VIVO","x":660,"y":-10,"width":700,"height":50}
 	],
 	"edges":[
 		{"id":"19d66b9d456647cf","fromNode":"cd67524133571e28","fromSide":"right","toNode":"0345fb37ed9054ee","toSide":"left"},
